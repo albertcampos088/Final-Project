@@ -1,16 +1,14 @@
-
 div {
- background-color: black;
- padding: 50px;
- color: white;
- font-family: sans-serif;
- width: 100px;
- border: 3px blue dashed;
- margin: 10px;
- }
-
+  background-color: orange;
+  padding: 50px;
+  color: white;
+  font-family: sans-serif;
+  width: 500px;
+  border: 3px black dashed;
+  margin: 10px;
+}
 body{
-background-image: url("https://wallpaperscraft.com/image/eminem_slim_shady_marshall_bruce_mathers_99950_1920x1080.jpg");
+background-image: url("http://wallpapercave.com/wp/wc1704264.png");
 background-size: 1000px 1000px;
    background-repeat: no-repeat;
 }
